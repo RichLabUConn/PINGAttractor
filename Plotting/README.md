@@ -8,5 +8,5 @@ For Figure 4, similar scripts with the "_Sparse" annotation perform the same cal
 
 "ReturnMaps..." code produces both movies (Supplementary Figures) and final snapshots used in Figure 3D-G, the components of which make up Figure 1A. Note that the versions in Figure 3 are partially modified to more clearly plot the end dynamics of the system.
 
-Plotting the panels comprising Figure 4 D and E requires first performing some data processing contained in the files beginning with "Figure4DE_". The locations of the files may need to be carefully checked for your outputs, as simulations for varying E_GABA were stored in different folders during initial workflow.
+Plotting for Figure 4 requires first performing some data processing contained in the files beginning with "Figure4DE_". The locations of the files may need to be carefully checked for your outputs, as simulations for varying E_GABA were stored in different folders during initial workflow.
 
