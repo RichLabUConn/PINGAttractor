@@ -6,7 +6,7 @@ Many of these functions assume that "MergeRepetitions.py" has been run first to 
 
 "ReturnMaps..." code produces both movies (Supplementary Figures) and final snapshots used in Figure 3D-G, components of which make up Figure 1A, Figure 2A, and the raster plot in Figure 4A. Note that the versions in Figure 3 are partially modified to more clearly plot the end dynamics of the system.
 
-For Figure 4, similar scripts with the "_Sparse" annotation perform the same calculations for varied externa linput instead of E_GABA.
+For Figure 4, similar scripts with the "_Sparse" annotation perform the same calculations for varied external input instead of E_GABA.
 
 Plotting for Figure 4 requires first performing some data processing contained in the files beginning with "Figure4DE_". The locations of the files may need to be carefully checked for your outputs, as simulations for varying E_GABA were stored in different folders during initial workflow.
 
