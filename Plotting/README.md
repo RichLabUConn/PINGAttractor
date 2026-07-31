@@ -10,3 +10,5 @@ For Figure 4, similar scripts with the "_Sparse" annotation perform the same cal
 
 Plotting for Figure 4 requires first performing some data processing contained in the files beginning with "Figure4DE_". The locations of the files may need to be carefully checked for your outputs, as simulations for varying E_GABA were stored in different folders during initial workflow.
 
+Plotting for Figure 5 requires running a parameter sweep of I_ext and E_GABA (a slight alteration to the default simulation script) and then running Figure5_Pipeline.py for both processing and heatmap plotting.
+
